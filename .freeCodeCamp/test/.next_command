@@ -70,3 +70,6 @@ git init
 git remote remove origin
 git remote add origin https://github.com/SinaeHong0424/worldcup-database-project.git
 git add .
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git add .
