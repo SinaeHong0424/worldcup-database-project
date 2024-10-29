@@ -64,3 +64,9 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 chmod +x insert_data.sh queries.sh
 ./insert_data.sh
 ./queries.sh
+ㅣㄴ
+ls --color=auto
+git init
+git remote remove origin
+git remote add origin https://github.com/SinaeHong0424/worldcup-database-project.git
+git add .
